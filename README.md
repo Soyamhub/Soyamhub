@@ -1,3 +1,38 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# 💫About Me :
+👋 Hi, I'm Soyam Shubham Swain!
+
+🎓 Engineering student at Gandhi Engineering College, Bhubaneswar, passionate about technology, programming, and problem-solving.
+
+🔧 What I do:
+
+📊 Data Analysis & Visualization
+🤖 Deep Learning & AI Projects
+💻 Software Development
+📚 Learning Java with DSA
+🌟 Current Projects:
+
+Detecting PPE Kits in industrial environments using YOLO.
+Analyzing retail shopping trends with data-driven insights.
+💡 Skills: Python, Java, Machine Learning, Data Structures, Jupyter Notebook, Pandas, NumPy
+
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soyam-shubham-swain-09226226b/) 
+
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Soyamhub&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Soyamhub&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soyamhub&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Soyamhub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🧑‍💻Random Cyber Quote
+![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Soyamhub&icon=0&color=0)](https://visitcount.itsvg.in)
