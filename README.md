@@ -5,7 +5,6 @@
 
 🔧 What I do:
 
-📊 Data Analysis & Visualization
 🤖 Deep Learning & AI Projects
 💻 Software Development
 📚 Learning Java with DSA
