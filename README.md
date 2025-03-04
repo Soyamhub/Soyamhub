@@ -13,7 +13,7 @@
 Detecting PPE Kits in industrial environments using YOLO.
 Analyzing retail shopping trends with data-driven insights.
 💡 Skills: Python, Java, Machine Learning, Data Structures
-, Pandas, NumPy
+, Pandas
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soyam-shubham-swain-09226226b/) 
